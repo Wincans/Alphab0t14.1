@@ -1,7 +1,5 @@
 const allpayment = (prefix) => {
 return `PAYMENT BY MELZ
-
-*🏧 BANK*
 	
 *💰 E-MONEY*
 
